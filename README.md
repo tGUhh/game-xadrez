@@ -24,6 +24,10 @@ ____________________________
 * Eclipse
 
 ______________________________________
+# Anotações
+1° Criação do projeto, classe Program e Position.
+2° Criação das classes Board e Piece. 
+
 ## Etapas do Projeto
 ### 1° Etapa
 #### Criação de Classes e Atributos
