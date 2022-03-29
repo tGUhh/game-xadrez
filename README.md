@@ -1,1 +1,2 @@
-# game-xadrez
+# Game Xadrez  
+game-xadrez
