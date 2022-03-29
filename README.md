@@ -1,23 +1,38 @@
+
 # Game Xadrez  
 ## Sobre o projeto
-Este projeto consiste em desenvolver um jogo de xadrez utilizando a linguagem Java e tambem colocar em pratica todo conhecimento adiquirido em programação.
- 
- ### Conhecimento Aplicado
+Este projeto consiste em desenvolver um jogo de xadrez utilizando a linguagem Java e também colocar em prática todo o conhecimento adquirido em programação.
+____________________________
+ ## Conhecimento Aplicado
 * Estruturas Condicionais,
 * Estruturas de Repetição,
 * Programação Orientada a Objetos, 
 * Composição, 
-* Sobre Carga,
+* Sobrecarga,
 * Herança, 
 * Sobreposição
 * Date/ Calendar
 * Upcasting e Downcasting,
 * Polimorfismo, 
-* Metodos Abstratos, 
-* Tratamento de Execeções.
+* Métodos Abstratos, 
+* Tratamento de Exceções.
 
-### Linguagens
+## Linguagens
 * Java
 
-### Framework
+## Framework
 * Eclipse
+
+______________________________________
+## Etapas do Projeto
+### 1° Etapa
+#### Criação de Classes e Atributos
+* Board (Tabuleiro)
+* Piece (Peça)
+* Position (Posição)
+
+### 2° Etapa
+### 3° Etapa
+### 4° Etapa
+### 5° Etapa
+### 6° Etapa
